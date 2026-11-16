@@ -1,0 +1,7 @@
+Meera Nair
+Email: meera@example.com
+B.Tech Artificial Intelligence and Data Science, Demo University, 2028.
+Skills: Python, NumPy, scikit-learn, machine learning.
+Project: Crop Disease Classification using Python and scikit-learn.
+Certification: Python Fundamentals.
+No employment history provided.

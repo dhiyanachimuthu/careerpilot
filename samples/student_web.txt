@@ -1,0 +1,6 @@
+Rahul Kumar
+Email: rahul@example.com
+B.E. Information Technology at Sample Engineering College, 2027.
+Skills: HTML, CSS, JavaScript, React, Git.
+Project: Campus Event Portal, built with React and JavaScript.
+No professional experience listed.

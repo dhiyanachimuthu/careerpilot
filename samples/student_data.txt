@@ -1,0 +1,7 @@
+Ananya Sharma
+Email: ananya@example.com
+B.Tech Computer Science, Example Institute, expected 2028.
+Skills: Python, SQL, Pandas, Power BI.
+Project: Student Performance Dashboard using Python and Power BI.
+Experience: Data Analytics Intern at Example Analytics, June 2026 - July 2026.
+Certification: Introduction to SQL.
